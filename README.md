@@ -1,2 +1,3 @@
 <h1>Python</h1>
-<h2>Assignments</h2>
+<h2>Assignment</h2>
+<li>Calulator</li>
