@@ -4,5 +4,7 @@ WORKDIR /app/
 
 COPY . /app/
 
-CMD [ "python","StudentResult.py" ]
+CMD [ "python","Strings.py" ]
+
+# CMD [ "python","StudentResult.py" ]
 # CMD [ "python","Cal.py" ]
