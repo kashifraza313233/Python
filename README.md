@@ -3,5 +3,7 @@
 <li>Calulator</li>
 <li>StudentResult</li>
 ![image](https://github.com/user-attachments/assets/14c9ee83-5ca2-4b55-82a3-ed3ef6ee1156)
+<img src="https://github.com/user-attachments/assets/14c9ee83-5ca2-4b55-82a3-ed3ef6ee1156" alt="Output">
+
 
 
