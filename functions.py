@@ -32,6 +32,8 @@ def Main():
     op = input("Enter an operation (+, -, *, /): ")
     num1  = (int(input("Enter Num1 : ")))
     num2  = (int(input("Enter Num2 : ")))
+    result = Calculate(op,num1,num2)
+    print(f"Result {result}")
     if input("Do you want to continue (y/n)? ").lower() != "y":
         break
 if __name__ == "__main__":
